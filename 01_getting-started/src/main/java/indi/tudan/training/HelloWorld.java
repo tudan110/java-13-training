@@ -7,7 +7,7 @@ package indi.tudan.training;
  */
 public class HelloWorld {
 
-    public static void main(String[] args) {
+    public static void main(String... args) {
 
         var s = "Hello world!";
         System.out.println(s);

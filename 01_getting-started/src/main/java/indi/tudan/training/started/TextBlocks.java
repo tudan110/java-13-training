@@ -1,4 +1,4 @@
-package indi.tudan.training;
+package indi.tudan.training.started;
 
 /**
  * Java 13 预览功能：文本块
@@ -12,9 +12,9 @@ package indi.tudan.training;
  */
 public class TextBlocks {
 
-    public static void main(String[] args) {
+    public static void main(String... args) {
 
-        String html = """
+        var html = """
               <html>
                   <body>
                       <p>Hello, world</p>

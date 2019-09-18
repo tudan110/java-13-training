@@ -19,6 +19,7 @@
 
     <modules>
         <module>01_getting-started</module>
+        <module>02_variables</module>
     </modules>
 
     <build>
