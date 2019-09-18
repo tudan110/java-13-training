@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>indi.tudan</groupId>
-    <artifactId>jdk-13-training</artifactId>
+    <artifactId>java-13-training</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
-    <name>jdk-13-training</name>
-    <description>jdk13 练习程序</description>
+    <name>java-13-training</name>
+    <description>java 13 练习程序</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
