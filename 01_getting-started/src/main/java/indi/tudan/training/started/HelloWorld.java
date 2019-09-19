@@ -1,4 +1,4 @@
-package indi.tudan.training;
+package indi.tudan.training.started;
 
 /**
  * @author wangtan
