@@ -20,6 +20,8 @@
     <modules>
         <module>01_getting-started</module>
         <module>02_variables</module>
+        <module>03_switch-expressions</module>
+        <module>04_text-blocks</module>
     </modules>
 
     <build>
