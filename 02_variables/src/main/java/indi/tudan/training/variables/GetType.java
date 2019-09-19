@@ -41,7 +41,7 @@ public class GetType {
      * @date 2019-09-18 15:28:20
      * @since 1.0
      */
-    public static String getType(Object object) {
+    private static String getType(Object object) {
         return object.getClass().toString(); //使用int类型的getClass()方法
     }
 }
